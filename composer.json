@@ -1,0 +1,11 @@
+{
+    "name": "joker/calendrier",
+    "autoload": {
+        "psr-4": {
+            "App\\Calendar\\": "src/Calendar",
+            "App\\Validator\\": "src/Validator"
+        }
+    },
+    "require": {}
+}
+
